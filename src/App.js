@@ -9,7 +9,6 @@ import {
 } from "@material-ui/core";
 
 import InfoBox from "./InfoBox";
-//import LineGraph from "./LineGraph";
 import Table from "./Table";
 import { sortData, prettyPrintStat } from "./util";
 import numeral from "numeral";
@@ -127,8 +126,6 @@ const App = () => {
           <div className="app__information">
             <h3><b>Live Cases by Country</b></h3>
             <Table countries={tableData} />
-            {/* <h3>Worldwide new {casesType}</h3>
-            <LineGraph casesType={casesType} /> */}
           </div>
         </CardContent>
       </Card>
