@@ -1,1 +1,1 @@
- 
+The Covid-19 Tracker Web App created using ReactJS, Material UI, HTML & CSS and deployed using Microsoft Azure. It uses Leaflet API for map purpose and disease.sh API which gives the daily recorded cases worldwide. The project shows the country wise details of coronavirus cases, recovered, deaths till date in the form of map & statistics. 
