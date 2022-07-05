@@ -3,7 +3,7 @@ The Covid-19 Tracker Web App created using ReactJS, HTML & CSS, Material UI allo
 
 <table>
 <tr>
- <td><img src="ttps://user-images.githubusercontent.com/54237095/177400571-f99b2bbe-cc95-46c1-85a5-18b9a1132ced.jpeg"  /></td></tr>
+ <td><img src="https://user-images.githubusercontent.com/54237095/177400571-f99b2bbe-cc95-46c1-85a5-18b9a1132ced.jpeg"  /></td></tr>
  <tr>
 <td><img src="https://user-images.githubusercontent.com/54237095/177400586-79006273-7fa2-4524-aec0-d392f8d95f9a.jpeg" /></td>
 </tr>
